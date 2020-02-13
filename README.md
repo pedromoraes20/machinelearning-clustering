@@ -12,3 +12,5 @@ Esse projeto é idealizado para máquinas agrícolas, mas acredito que possa ser
 Existe uma dificuldade dos times de gestão de operações em avaliar o desempenho de máquinas, isso porque as condições de operação variam drasticamente, se diferenciando por variáveis como região, declividade, tempo (chuvoso, ensolarado), idade do ativo (em anos), etc.
 Essa análise visa, por meio do algoritmo de aprendizagem de máquina não supervisionado, encontrar padrões de operações para melhorar a gestão de metas dos gestores, além de retornar para o setor operacional os potenciais de ganho de produtividade. De outro modo, essa análise também demonstra operações fortemente candidatas a anomalias (traduzidas estatisticamente como outliers).
 
+Observação:
+O código não está completo. As partes que podiam identificar o cliente precisam ser rtiradas. :(
