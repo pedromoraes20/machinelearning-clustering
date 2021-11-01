@@ -7,10 +7,6 @@ Clustering – Identificação de padrões de operação de máquinas
 Tags:
 #statistics #python #jupyternotebook #machinelearning #unsupervisedlearning #clustering #bigdata
 
-Briefing:
-Esse projeto é idealizado para máquinas agrícolas, mas acredito que possa ser explorado em operações de outras indústrias.
-Existe uma dificuldade dos times de gestão de operações em avaliar o desempenho de máquinas, isso porque as condições de operação variam drasticamente, se diferenciando por variáveis como região, declividade, tempo (chuvoso, ensolarado), idade do ativo (em anos), etc.
-Essa análise visa, por meio do algoritmo de aprendizagem de máquina não supervisionado, encontrar padrões de operações para melhorar a gestão de metas dos gestores, além de retornar para o setor operacional os potenciais de ganho de produtividade. De outro modo, essa análise também demonstra operações fortemente candidatas a anomalias (traduzidas estatisticamente como outliers).
+Briefing: This project is designed for agricultural machinery, but I believe it can be explored in operations in other industries. There is a difficulty for the operations management teams to assess the performance of machines, because the operating conditions vary drastically, differing by variables such as region, slope, weather (rainy, sunny), age of the asset (in years), etc. . This analysis aims, through the unsupervised machine learning algorithm, to find operational patterns to improve the management of managers' goals, in addition to returning the potential for productivity gains to the operational sector. Otherwise, this analysis also demonstrates operations that are strongly candidates for anomalies (statistically translated as outliers).
 
-Observação:
-O código não está completo. As partes que podiam identificar o cliente precisam ser rtiradas. :(
+Note: The code is not complete. The parts that could identify the customer need to be removed. :(
